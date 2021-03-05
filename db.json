@@ -1,5 +1,6 @@
 {
-  "users":{[
+  "page": 1,
+  "users": [
     {
       "id":1,
       "isActive":false,
@@ -330,5 +331,5 @@
       "phone":"006.843.3902-66731",
       "address":"Suite 171 0003 Steuber Camp, Ortizborough, KY 61566-0935"
     }
-  ]}
+  ]
 }
