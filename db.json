@@ -318,17 +318,6 @@
 			"email":"health@domain.com",
 			"phone":"(652)512-5762-939",
 			"address":"9556 Hyatt Lane, Elfriedefort, KY 72854-4248"
-		},
-		{
-			"id":30,
-			"isActive":true,
-			"age":30,
-			"name":"Babette Leffler MD",
-			"gender":"Male",
-			"company":"Oberbrunner LLC",
-			"email":"sports@domain.com",
-			"phone":"006.843.3902-66731",
-			"address":"Suite 171 0003 Steuber Camp, Ortizborough, KY 61566-0935"
 		}
 	]
 }
