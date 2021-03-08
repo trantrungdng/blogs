@@ -1,8 +1,5 @@
 {
-  "page": 1,
-  "pages": 3,
-  "perpage": 10,
-  "total": 30,
+
   "users": [
     {
       "id":1,
