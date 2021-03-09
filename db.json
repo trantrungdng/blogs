@@ -1,6 +1,5 @@
 {
-	"page": 1,
-	"total_pages": 3,
+	
 	"users": {
 		"results": [
 		{
@@ -323,5 +322,8 @@
 			"address":"9556 Hyatt Lane, Elfriedefort, KY 72854-4248"
 		}
 	]
-	}
+	},
+	"page": 1,
+	"total_pages": 3,
+	"total_results": 29
 }
